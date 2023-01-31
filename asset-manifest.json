@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://sids4ru.github.io/csb-95xpm3/static/css/main.5f361e03.chunk.css",
+    "main.js": "https://sids4ru.github.io/csb-95xpm3/static/js/main.0773039c.chunk.js",
+    "main.js.map": "https://sids4ru.github.io/csb-95xpm3/static/js/main.0773039c.chunk.js.map",
+    "runtime-main.js": "https://sids4ru.github.io/csb-95xpm3/static/js/runtime-main.c8d3359e.js",
+    "runtime-main.js.map": "https://sids4ru.github.io/csb-95xpm3/static/js/runtime-main.c8d3359e.js.map",
+    "static/js/2.027cbeee.chunk.js": "https://sids4ru.github.io/csb-95xpm3/static/js/2.027cbeee.chunk.js",
+    "static/js/2.027cbeee.chunk.js.map": "https://sids4ru.github.io/csb-95xpm3/static/js/2.027cbeee.chunk.js.map",
+    "index.html": "https://sids4ru.github.io/csb-95xpm3/index.html",
+    "precache-manifest.c098b4c52e0638b7e70683f38c42a0d0.js": "https://sids4ru.github.io/csb-95xpm3/precache-manifest.c098b4c52e0638b7e70683f38c42a0d0.js",
+    "service-worker.js": "https://sids4ru.github.io/csb-95xpm3/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "https://sids4ru.github.io/csb-95xpm3/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.027cbeee.chunk.js.LICENSE.txt": "https://sids4ru.github.io/csb-95xpm3/static/js/2.027cbeee.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "https://sids4ru.github.io/csb-95xpm3/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8d3359e.js",
+    "static/js/2.027cbeee.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.0773039c.chunk.js"
+  ]
+}
